@@ -1,0 +1,19 @@
+A simple, classic and somewhat buggy dijkstra's shortest path algorithm 
+combined with a graph ADT + a min-heap ADT which I was going to use for 
+it, but I guess it was going to be alot harder, since it needed 
+modifications. 
+
+Anyways, this is a solution to the "Hack Bulgaria" ANSI C course 
+application problem. The contents of the provided LICENCE file are 
+applied to all files on this repository - be they executable or source 
+files. 
+
+The project should come with a Makefile for compiling the source or, 
+in case I actually decide to continue it a configure script which is 
+going to create that Makefile. You will most likely need a gcc to 
+compile the project, or at least to use the Makefile, although the code 
+has no other dependencies, God only knows what can happen. 
+
+Compiling instructions: 
+ 0. - Type `make` in the top-level directory of the project.
+
